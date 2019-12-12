@@ -8,7 +8,7 @@ public class LabExer1B
 		showNumberPlus10(a);
 		showNumberPlus100(a);
 		showNumberPlus1000(a);
-		
+		//Hello
 }
 static void showNumberPlus10(int n)
 {

@@ -21,6 +21,6 @@ public class LabExer1A
 	 {
 	 	System.out.print(nickNameArray[ctr]);
 	 }
-	
+	//Hello
 }
 }
